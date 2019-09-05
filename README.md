@@ -32,3 +32,21 @@ Y este el resultado del segundo punto.
 
 # 3_2_Ejercicio_2
 
+Lea esta historia y calcule/imprima los valores necesarios:
+
+– El lunes, el granjero Pedro recoge 100 huevos.
+
+– El martes, recoge 121 huevos.
+
+– El miércoles, recoge 117 huevos.
+
+– ¿Cuál es el valor diario de huevos recogidos (dailyAverage )? 
+
+– ¿Cuántos huevos cabría esperar como media en un mes de 30 días (monthlyAverage)?
+
+– Si se obtienen unos beneficios de 0,18 dólares por huevo, ¿qué beneficio total obtendrá Pedro (monthlyProfit) para todos los huevos?
+
+Se utiliza el programa -Chickens02-.
+Para resolver el primer punto del problema, se debe obtener un media de los 3 días; esto es, la suma y posterior división entre los 3 días.
+Con el dato obtenido se calcula la media de 30 días al multiplicarlo. Y con este último dato se obtienen las ganancias totales.
+
