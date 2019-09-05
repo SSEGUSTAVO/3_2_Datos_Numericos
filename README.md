@@ -50,3 +50,4 @@ Se utiliza el programa -Chickens02-.
 Para resolver el primer punto del problema, se debe obtener un media de los 3 días; esto es, la suma y posterior división entre los 3 días.
 Con el dato obtenido se calcula la media de 30 días al multiplicarlo. Y con este último dato se obtienen las ganancias totales.
 
+![Ejercicio 2](https://user-images.githubusercontent.com/54320247/64305973-ccb40e00-cf56-11e9-89d7-d2d6584fb562.jpg)
