@@ -22,3 +22,13 @@ Para resolver el problema se emplea el programa -Chickens01-, el primer paso es 
 En el segundo día hay una gallina más, por lo que se aumenta en uno la cantidad de gallinas, posteriormente se vuelve a multiplicar el número actual de gallinas por la cantidad de huevos y se obtiene el número total de huevos para el segundo día. Cabe señalar que no se debe perder la cantidad de huevos calculados anteriormente.
 Posteriormente se divide el número de gallinas entre dos, ya que el zorro se come la mitad de las gallinas. Y por último se calcula la cantidad de huevos obtenidos el tercer día para finalizar con la suma obtenida de los tres días.
 
+Este es el resultado del primer punto.
+
+![Ejercicio 1_1](https://user-images.githubusercontent.com/54320247/64304165-c28f1100-cf50-11e9-95b5-1050643af6f9.jpg)
+
+Y este el resultado del segundo punto.
+
+![Ejercicio 1_2](https://user-images.githubusercontent.com/54320247/64304173-c4f16b00-cf50-11e9-9db4-fd49a737541c.jpg)
+
+# 3_2_Ejercicio_2
+
